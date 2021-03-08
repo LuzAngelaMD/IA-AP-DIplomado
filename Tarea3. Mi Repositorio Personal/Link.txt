@@ -1,3 +1,3 @@
 Este es la dirección de mi repositorio personal
 
-https://github.com/LuzAngelaMD/Diplomado-IA_AP
+https://github.com/LuzAngelaMD/IA-AP-DIplomado.git
