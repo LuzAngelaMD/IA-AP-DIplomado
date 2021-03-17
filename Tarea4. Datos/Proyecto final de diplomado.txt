@@ -1,0 +1,18 @@
+Proyecto final de diplomado
+Grupo 
+Luz Angela Mosquera Daza -  Héctor Alberto Chica Ramírez 
+
+Titulo:
+Predicción de Indicadores de Gestión con Elementos de Series de Tiempo Multivariada y Herramientas de Inteligencia Artificial
+
+Objetivo:
+ 
+Predecir el valor futuro de 4 indicadores de gestión basados en su propia historia y en la estructura de correlación temporal con otras variables medidas simultáneamente.
+ 
+Forma de la data:
+ 
+fecha   Y1    Y2     Y3    Y4    X1    X2    X3    ........    Xp
+
+
+Se trabajará con datos privados de la empresa.
+
